@@ -12,7 +12,7 @@ Country = "🇮🇳"
 
 
 
-- 👋 Hi, I’m Working @YogeshBots (https://t.me/YogeshBots)
+- 👋 Hi, I’m Working @YogeshBots
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
