@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Github Trophy🏆
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyogieu&theme=chartreuse-dark&hide_border=True" alt="itsyogieu"/></p>
