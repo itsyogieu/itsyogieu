@@ -1,4 +1,4 @@
-I'm a open Source Developer(beginner).
+
 ### About 🙋🏻‍♂️
 ```python
 Name = "R.Yogesh"
@@ -12,7 +12,7 @@ Country = "🇮🇳"
 
 
 
-
+- 👨‍💻 I'm a open source developer(beginner).
 - 👋 Hi, I’m Working @YogeshBots
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
