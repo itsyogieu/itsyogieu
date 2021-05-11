@@ -33,17 +33,17 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
-## My GitHub Stats💙
 
-<details>
-<summary>My GitHub Stats💙</summary>
-<br>
+
+
+
+
     
-![itsyogieu Git Stats](https://github-readme-stats.vercel.app/api?username=itsyogieu&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyogieu&layout=compact&theme=radical)](https://github.com/itsyogieu)
 
-[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://itsyogieu.in)
+
+
+
 
 
 
