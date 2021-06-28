@@ -1,7 +1,7 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "R.Yogesh"
+Name = "Yogesh R"
 who_i_am = ['Coding = Mobile💙']
 Do Check Our Bots = "Useful"
 Country = "🇮🇳"
