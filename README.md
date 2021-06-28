@@ -12,13 +12,13 @@ Country = "🇮🇳"
 
 
 
-- 👨‍💻 I'm a open source developer (Beginner).
-- 👋 Hi, I’m Working @YogeshBots
+- 👨‍💻 I'm a Open Source Developer (Beginner).
+- 👋 Hi, I’m Working @YogeshBots [Here](https://t.me/YogeshBots)
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[Here](https://www.instagram.com/its_yogie_u/)
-- 👯 Join Telegram Channel : [Here](https://t.me/YogeshBots)
+- 👯 Subscribe My YouTube Channel : [Here](https://bit.ly/2FTg0mh)
 
 
 <!---
