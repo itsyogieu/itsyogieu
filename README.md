@@ -16,7 +16,7 @@ Country = "🇮🇳"
 - 👋 Hi, I’m Working @YogeshBots [Here](https://t.me/YogeshBots)
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-
 - 📫 How to reach me ...[Here](https://www.instagram.com/its_yogie_u/)
 - 👯 Subscribe My YouTube Channel : [Here](https://youtube.com/c/YogeshR)
 
