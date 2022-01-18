@@ -12,7 +12,7 @@ Country = "🇮🇳"
 
 
 
-- 👨‍💻 I'm a Open Source Developer (Beginner).
+- 👨‍💻 I'm a Bot Developer .
 - 👋 Hi, I’m Working @YogeshBots [Telegram](https://t.me/YogeshBots)
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
