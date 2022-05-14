@@ -18,7 +18,7 @@ Country = "🇮🇳"
 - 🌱 I’m currently learning ...
 
 - 📫 How to reach me ...[Instagram](https://www.instagram.com/its_yogie_u/)
-- 👯 Subscribe My YouTube Channel : [Yogesh R](https://youtube.com/c/YogeshR)
+- 👯 Subscribe My YouTube Channel : [TechMagazine](https://youtube.com/c/TechMagazine)
 
 
 <!---
