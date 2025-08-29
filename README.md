@@ -3,7 +3,7 @@
 ```python
 Name = "Yogesh R"
 who_i_am = ['Coding = Mobile💙']
-How to create Bots? = "Check out my YouTube Channel"
+Do Check Our Bots = "Useful"
 Country = "🇮🇳"
 ```
 [![Profile views](https://gpvc.arturio.dev/itsyogieu)](https://github.com/itsyogieu)
@@ -13,7 +13,7 @@ Country = "🇮🇳"
 
 
 - 👨‍💻 I'm a Bot Developer .
-- 👋 Hi, I’m Working @TechMagazine [Telegram](https://telegram.me/TechMagazineYT)
+- 👋 Hi, I’m Working @YogeshBots [Telegram](https://t.me/YogeshBots)
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ...
 
